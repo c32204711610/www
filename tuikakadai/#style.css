@@ -74,3 +74,12 @@ a{
     color: #fff;
     padding: 15px 20px 12px;
 }
+.footer{
+    margin-top: 40px;
+}
+.pp_link{
+    text-align: left;
+}
+.copy{
+    text-align: center;
+}
