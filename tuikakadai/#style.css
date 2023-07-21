@@ -45,7 +45,11 @@ a{
 .header_img img{
     display: inline-block;
 }
-.container_service {
+.container_service .service_block {
+    display: flex;
+}
+.container_service .service{
+    width: 380px;
 }
 .container_service h2{
     text-align: center;
@@ -59,6 +63,7 @@ a{
 .container_service .service .ttl{
     font-weight: bold;
     font-size: 18px;
+    margin-bottom: 15px;
 }
 .container_service .service .expiain{
     margin-bottom: 20px;
