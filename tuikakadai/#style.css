@@ -19,7 +19,7 @@ a{
     display: inline-block;
     margin-bottom: 5px;
 }
-.header{
+.w_inner{
     width: 1200px;
     margin: 0 auto;
 }
@@ -82,4 +82,8 @@ a{
 }
 .copy{
     text-align: center;
+    background: #79a1b1;
+    color: #fff;
+    font-size: 12px;
+    padding: 7px 0 3px;
 }
